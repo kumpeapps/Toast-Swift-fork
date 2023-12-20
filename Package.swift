@@ -4,7 +4,7 @@ import PackageDescription
 let package = Package(
     name: "Toast",
     platforms: [
-        .iOS(.v10),
+        .iOS(.v11),
     ],
     products: [
         .library(
